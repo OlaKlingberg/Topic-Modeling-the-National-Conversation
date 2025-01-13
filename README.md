@@ -10,14 +10,15 @@ The project analyzes HuffPost articles labeled as “Queer Voices” to identify
 
 To provide insights into how the national conversation on LGBTQ+ issues, as reflected in media, evolved during a significant political event.
 
+
+### Data source
+The data can be accessed from [Huggingface](https://huggingface.co/datasets/khalidalt/HuffPost).
+
 ### Key Features:
 * **Data Collection**: Compilation of headlines and short description of articles from HuffPost.
 * **Text Preprocessing**: Cleaning and preparing textual data for analysis, including tokenization, stop-word removal, and lemmatization.
 * **Topic Modeling**: Application of Latent Dirichlet Allocation (LDA) and Non-Negative Matrix Factorization (NMF) to extract prevalent topics and their evolution over time.
 * **Visualization**: Graphical representation of topic distributions to facilitate interpretation of the findings.
-
-### Data source
-The data can be accessed from [Huggingface](https://huggingface.co/datasets/khalidalt/HuffPost).
 
 ### Results (summary)
 The table below shows the topics in the Queer-Voices articles before and after the 2016 U.S. elections, lined up so that topics that appeared both before and after are on the same line and highlighted in green. (Note that whether two topics should be considered the same topic involves a judgement call.) Topics within a time period that seem very similar to each other are placed in the same cell, indicating that they should be merged. 
