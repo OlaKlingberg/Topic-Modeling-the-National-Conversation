@@ -16,3 +16,5 @@ To provide insights into how the national conversation on LGBTQ+ issues, as refl
 * **Topic Modeling**: Application of Latent Dirichlet Allocation (LDA) and Non-Negative Matrix Factorization (NMF) to extract prevalent topics and their evolution over time.
 * **Visualization**: Graphical representation of topic distributions to facilitate interpretation of the findings.
 
+### Results
+![image](https://github.com/user-attachments/assets/ae93213c-5a28-47a4-aea7-2904a671d2e8)
